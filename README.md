@@ -1,4 +1,4 @@
-# Bivariate and Multivariate Normal for Regression
+# 2022-1 Probability HW4 - Bivariate and Multivariate Normal for Regression
 
 使用Python計算機率並畫出預測的迴歸圖
 
